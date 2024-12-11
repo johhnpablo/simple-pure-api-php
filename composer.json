@@ -3,5 +3,8 @@
     "psr-4": {
       "SimpleApi\\" : "src/"
     }
+  },
+  "require": {
+    "ext-pdo": "*"
   }
 }
